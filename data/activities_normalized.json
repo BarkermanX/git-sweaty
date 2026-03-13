@@ -11230,5 +11230,18 @@
     "start_date_local": "2026-03-10T12:18:10Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-12",
+    "distance": 8855.2,
+    "elevation_gain": 0.0,
+    "id": "17699670479",
+    "moving_time": 3055.0,
+    "name": "Treadmill Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-12T17:13:05Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
