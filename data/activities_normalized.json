@@ -11243,5 +11243,18 @@
     "start_date_local": "2026-03-12T17:13:05Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-03-17",
+    "distance": 4633.4,
+    "elevation_gain": 0.0,
+    "id": "17755169068",
+    "moving_time": 1805.0,
+    "name": "3 1/2 Minute Curve Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-03-17T12:40:36Z",
+    "type": "Run",
+    "year": 2026
   }
 ]

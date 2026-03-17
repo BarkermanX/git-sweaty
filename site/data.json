@@ -7784,6 +7784,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17699670479",
       "year": 2026
+    },
+    {
+      "date": "2026-03-17",
+      "hour": 12,
+      "name": "3 1/2 Minute Curve Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17755169068",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15264,6 +15273,15 @@
           "distance": 8855.2,
           "elevation_gain": 0.0,
           "moving_time": 3055.0
+        },
+        "2026-03-17": {
+          "activity_ids": [
+            "17755169068"
+          ],
+          "count": 1,
+          "distance": 4633.4,
+          "elevation_gain": 0.0,
+          "moving_time": 1805.0
         }
       },
       "Walk": {
@@ -15279,7 +15297,7 @@
       }
     }
   },
-  "generated_at": "2026-03-16T16:01:36.981409+00:00",
+  "generated_at": "2026-03-17T16:00:38.390729+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
