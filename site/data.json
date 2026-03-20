@@ -7793,6 +7793,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17755169068",
       "year": 2026
+    },
+    {
+      "date": "2026-03-19",
+      "hour": 19,
+      "name": "Treadmill Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17784048817",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15282,6 +15291,15 @@
           "distance": 4633.4,
           "elevation_gain": 0.0,
           "moving_time": 1805.0
+        },
+        "2026-03-19": {
+          "activity_ids": [
+            "17784048817"
+          ],
+          "count": 1,
+          "distance": 9261.6,
+          "elevation_gain": 0.0,
+          "moving_time": 3132.0
         }
       },
       "Walk": {
@@ -15297,7 +15315,7 @@
       }
     }
   },
-  "generated_at": "2026-03-19T15:49:59.402411+00:00",
+  "generated_at": "2026-03-20T15:38:32.038066+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
