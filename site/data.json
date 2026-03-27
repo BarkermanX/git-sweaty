@@ -7811,6 +7811,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/17840258994",
       "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 19,
+      "name": "Treadmill Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17869992173",
+      "year": 2026
+    },
+    {
+      "date": "2026-03-26",
+      "hour": 20,
+      "name": "Evening Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/17869992308",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15318,6 +15336,16 @@
           "distance": 4933.4,
           "elevation_gain": 0.0,
           "moving_time": 1929.0
+        },
+        "2026-03-26": {
+          "activity_ids": [
+            "17869992173",
+            "17869992308"
+          ],
+          "count": 2,
+          "distance": 11160.9,
+          "elevation_gain": 0.0,
+          "moving_time": 3893.0
         }
       },
       "Walk": {
@@ -15333,7 +15361,7 @@
       }
     }
   },
-  "generated_at": "2026-03-26T16:09:05.922331+00:00",
+  "generated_at": "2026-03-27T15:47:38.237856+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
