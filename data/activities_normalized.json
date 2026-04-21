@@ -11373,5 +11373,18 @@
     "start_date_local": "2026-04-16T12:19:52Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-04-21",
+    "distance": 5236.2,
+    "elevation_gain": 0.0,
+    "id": "18196730451",
+    "moving_time": 1991.0,
+    "name": "Curve 4 x 4 Minute Intervals",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-04-21T12:42:32Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
