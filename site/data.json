@@ -7919,6 +7919,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18416719802",
       "year": 2026
+    },
+    {
+      "date": "2026-05-12",
+      "hour": 12,
+      "name": "6.5 mile Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18476270133",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15526,6 +15535,15 @@
           "distance": 4674.8,
           "elevation_gain": 0.0,
           "moving_time": 1806.0
+        },
+        "2026-05-12": {
+          "activity_ids": [
+            "18476270133"
+          ],
+          "count": 1,
+          "distance": 10542.5,
+          "elevation_gain": 116.6,
+          "moving_time": 3714.0
         }
       },
       "Walk": {
@@ -15541,7 +15559,7 @@
       }
     }
   },
-  "generated_at": "2026-05-11T17:22:11.321966+00:00",
+  "generated_at": "2026-05-12T17:06:04.106405+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
