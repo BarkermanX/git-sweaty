@@ -7928,6 +7928,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18476270133",
       "year": 2026
+    },
+    {
+      "date": "2026-05-14",
+      "hour": 17,
+      "name": "Curve 4 x 4 Minute Intervals",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18506907346",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15544,6 +15553,15 @@
           "distance": 10542.5,
           "elevation_gain": 116.6,
           "moving_time": 3714.0
+        },
+        "2026-05-14": {
+          "activity_ids": [
+            "18506907346"
+          ],
+          "count": 1,
+          "distance": 5019.6,
+          "elevation_gain": 0.0,
+          "moving_time": 1866.0
         }
       },
       "Walk": {
@@ -15559,7 +15577,7 @@
       }
     }
   },
-  "generated_at": "2026-05-14T16:57:46.332397+00:00",
+  "generated_at": "2026-05-15T16:48:32.231995+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
