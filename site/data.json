@@ -7937,6 +7937,24 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18506907346",
       "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 12,
+      "name": "Indoor Cycle",
+      "subtype": "Ride",
+      "type": "Ride",
+      "url": "https://www.strava.com/activities/18567390605",
+      "year": 2026
+    },
+    {
+      "date": "2026-05-19",
+      "hour": 13,
+      "name": "Short Treadmill Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18567390676",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15246,6 +15264,17 @@
       }
     },
     "2026": {
+      "Ride": {
+        "2026-05-19": {
+          "activity_ids": [
+            "18567390605"
+          ],
+          "count": 1,
+          "distance": 0.0,
+          "elevation_gain": 0.0,
+          "moving_time": 1506.0
+        }
+      },
       "Run": {
         "2026-01-03": {
           "activity_ids": [
@@ -15562,6 +15591,15 @@
           "distance": 5019.6,
           "elevation_gain": 0.0,
           "moving_time": 1866.0
+        },
+        "2026-05-19": {
+          "activity_ids": [
+            "18567390676"
+          ],
+          "count": 1,
+          "distance": 2761.0,
+          "elevation_gain": 0.0,
+          "moving_time": 900.0
         }
       },
       "Walk": {
@@ -15577,7 +15615,7 @@
       }
     }
   },
-  "generated_at": "2026-05-18T17:28:07.985644+00:00",
+  "generated_at": "2026-05-19T17:36:01.869635+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",

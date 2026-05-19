@@ -11464,5 +11464,31 @@
     "start_date_local": "2026-05-14T17:38:20Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 0.0,
+    "elevation_gain": 0.0,
+    "id": "18567390605",
+    "moving_time": 1506.0,
+    "name": "Indoor Cycle",
+    "raw_activity_type": "Ride",
+    "raw_type": "Ride",
+    "start_date_local": "2026-05-19T12:49:13Z",
+    "type": "Ride",
+    "year": 2026
+  },
+  {
+    "date": "2026-05-19",
+    "distance": 2761.0,
+    "elevation_gain": 0.0,
+    "id": "18567390676",
+    "moving_time": 900.0,
+    "name": "Short Treadmill Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-05-19T13:16:30Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
