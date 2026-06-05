@@ -7991,6 +7991,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18701728270",
       "year": 2026
+    },
+    {
+      "date": "2026-06-05",
+      "hour": 8,
+      "name": "Garage Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18793646612",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15672,6 +15681,15 @@
           "distance": 10480.8,
           "elevation_gain": 112.8,
           "moving_time": 3880.0
+        },
+        "2026-06-05": {
+          "activity_ids": [
+            "18793646612"
+          ],
+          "count": 1,
+          "distance": 5005.2,
+          "elevation_gain": 28.6,
+          "moving_time": 1865.0
         }
       },
       "Walk": {
@@ -15687,7 +15705,7 @@
       }
     }
   },
-  "generated_at": "2026-06-04T17:41:21.649548+00:00",
+  "generated_at": "2026-06-05T17:11:49.745214+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",
