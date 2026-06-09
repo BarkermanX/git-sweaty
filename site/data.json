@@ -8000,6 +8000,15 @@
       "type": "Run",
       "url": "https://www.strava.com/activities/18793646612",
       "year": 2026
+    },
+    {
+      "date": "2026-06-09",
+      "hour": 9,
+      "name": "Lexi Run",
+      "subtype": "Run",
+      "type": "Run",
+      "url": "https://www.strava.com/activities/18853277096",
+      "year": 2026
     }
   ],
   "aggregates": {
@@ -15690,6 +15699,15 @@
           "distance": 5005.2,
           "elevation_gain": 28.6,
           "moving_time": 1865.0
+        },
+        "2026-06-09": {
+          "activity_ids": [
+            "18853277096"
+          ],
+          "count": 1,
+          "distance": 3345.2,
+          "elevation_gain": 30.4,
+          "moving_time": 1221.0
         }
       },
       "Walk": {
@@ -15705,7 +15723,7 @@
       }
     }
   },
-  "generated_at": "2026-06-08T17:48:38.508113+00:00",
+  "generated_at": "2026-06-09T17:22:27.314614+00:00",
   "other_bucket": "OtherSports",
   "profile_url": "https://www.strava.com/athletes/20298804",
   "repo": "BarkermanX/git-sweaty",

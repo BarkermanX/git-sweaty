@@ -11555,5 +11555,18 @@
     "start_date_local": "2026-06-05T08:42:21Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-09",
+    "distance": 3345.2,
+    "elevation_gain": 30.4,
+    "id": "18853277096",
+    "moving_time": 1221.0,
+    "name": "Lexi Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-09T09:39:17Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
