@@ -11594,5 +11594,18 @@
     "start_date_local": "2026-06-15T12:51:34Z",
     "type": "Run",
     "year": 2026
+  },
+  {
+    "date": "2026-06-17",
+    "distance": 11439.9,
+    "elevation_gain": 129.6,
+    "id": "18957438875",
+    "moving_time": 4117.0,
+    "name": "7 Mile Run",
+    "raw_activity_type": "Run",
+    "raw_type": "Run",
+    "start_date_local": "2026-06-17T12:10:29Z",
+    "type": "Run",
+    "year": 2026
   }
 ]
